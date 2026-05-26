@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/isnandar-humaedi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/isnandarhmd" target="_blank">
+  <a href="://www.instagram.com/isnandarhmd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/@isnandarhmd" target="_blank">
@@ -22,15 +22,18 @@
 
 ###
 
-<h4 align="center">Android Developer | Kotlin, Jetpack Compose, Firebase | CTO @Indodigitalart | Open to Remote Work</h4>
+<h4 align="center">Android Engineer | Crafting Apps with Kotlin & Jetpack Compose | CTO @Indodigitalart | Open to Remote Work</h4><br>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏻‍💻  About Me</h3>
 
 ###
 
-<p align="left">⁠- 🇮🇩 Based in Indonesia, open for remote jobs globally<br>- 🎓 Bangkit Academy led by Google, GoTo, and Traveloka — Mobile Development Graduate (2023)<br>- 🚀 Capstone Project: TripPal — Travel Companion App – Android Development Path<br>-⁠  ⁠🛠️ Building Android apps using Kotlin, Jetpack Compose, Firebase, REST API, Git, GitHub Actions, Android Studio, SQLite, MVVM, JUnit & Espresso</p>
+<p align="left">
+- 🇮🇩 Based in Indonesia, open to remote opportunities worldwide<br>
+- 🚀 <b>CTO at <a href="https://indodigitalart.com" target="_blank">Indodigitalart</a></b>, leading tech initiatives and development<br>
+- 🎓 <b>Bangkit Academy Graduate </b> — specialized in Mobile Development<br>
 
 ###
 
@@ -39,21 +42,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 </div>
 
 ###
